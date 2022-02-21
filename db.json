@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "name": "Lukas Schmidt",
+      "email": "adam123@gmail.com",
+      "contact": "83673677367635",
+      "id": 1
+    },
+    {
+      "name": "James Bond",
+      "email": "james@gmail.com",
+      "contact": "9484785787",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "asdasd@gmail.com",
+      "contact": "213232323",
+      "id": 4
+    },
+    {
+      "name": "asdasdasd",
+      "email": "asdsad",
+      "contact": "asdasd",
+      "id": 5
+    },
+    {
+      "name": "asdasd",
+      "email": "asdasd",
+      "contact": "asdasd",
+      "id": 6
+    }
+  ]
+}
