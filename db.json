@@ -1,33 +1,52 @@
 {
-  "contacts": [
+  "beers": [
     {
-      "name": "Lukas Schmidt",
-      "email": "adam123@gmail.com",
-      "contact": "83673677367635",
+      "name": "hejasdsad",
+      "email": "test",
+      "brewery": "sdfsdfsfdsdfasdasd",
+      "year": "0011-11-11",
+      "description": "asdasdasdasdasd",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.singhapattanachiangmai.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fcarlsberg-630ml-bottle.png&f=1&nofb=1",
       "id": 1
     },
     {
-      "name": "James Bond",
-      "email": "james@gmail.com",
-      "contact": "9484785787",
+      "name": "test1",
+      "brewery": "asdasd",
+      "year": "2022-02-02",
+      "description": "asdasd",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GiWoRdmbA90litcp9H-yjAHaEL%26pid%3DApi%26h%3D160&f=1",
+      "id": 2
+    },
+    {
+      "name": "asdsadas",
+      "brewery": "asdasdasd",
+      "year": "asdasdas",
+      "description": "asdasdasd",
+      "image": "asdsadasd",
       "id": 3
     },
     {
-      "name": "test",
-      "email": "asdasd@gmail.com",
-      "contact": "213232323",
+      "name": "asdsadsad",
+      "brewery": "asdsadsa",
+      "year": "asdasdasd",
+      "description": "asdasdasd",
+      "image": "asdasdasd",
       "id": 4
     },
     {
-      "name": "asdasdasd",
-      "email": "asdsad",
-      "contact": "asdasd",
+      "name": "asdasd",
+      "brewery": "asdasdasd",
+      "year": "asdasd",
+      "description": "",
+      "image": "",
       "id": 5
     },
     {
-      "name": "asdasd",
-      "email": "asdasd",
-      "contact": "asdasd",
+      "name": "hej",
+      "brewery": "hej",
+      "year": "hej",
+      "description": "hej",
+      "image": "hej",
       "id": 6
     }
   ]

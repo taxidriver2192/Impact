@@ -4,8 +4,8 @@ import "react-toastify/dist/ReactToastify.css";
 
 import "./App.css";
 import Home from "./pages/Home";
-import AddEditUser from "./pages/AddEditUser";
-import UserInfo from "./pages/UserInfo";
+import AddEditUser from "./pages/AddEditBeer";
+import UserInfo from "./pages/BeerInfo";
 
 function App() {
   return (

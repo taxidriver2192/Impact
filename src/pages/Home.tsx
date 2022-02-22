@@ -1,13 +1,13 @@
 import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
-import {useContactsQuery, useDeleteContactMutation} from "../services/contactsApi";
+import {useBeersQuery, useDeleteBeerMutation} from "../services/beersApi";
 import "./Home.css";
 
 
 const Home = () => {
-  const {data, error, isLoading, isSuccess, isFetching} = useContactsQuery();
-  const [deleteContact] = useDeleteContactMutation();
+  const {data, error, isLoading, isSuccess, isFetching} = useBeersQuery();
+  const [deleteBeer] = useDeleteBeerMutation();
   useEffect(() =>{
     if(error){
       toast.error("something went wrong");
@@ -15,15 +15,15 @@ const Home = () => {
   }, [error])
   const handleDelete = async (id: any) => {
     if (window.confirm("Are you sure that you wanted to delete that user ?")) {
-      await deleteContact(id);
-      toast.success("Contact Deleted Successfully");
+      await deleteBeer(id);
+      toast.success("Beer Deleted Successfully");
     }
   };
   return (
     <div style={{ marginTop: "100px" }}>
       <h2>Redux Toolkit RTK Query CRUD with React and JSON Server </h2>
       <Link to="/add">
-        <button className="btn btn-add">Add Contact</button>
+        <button className="btn btn-add">Add Beer</button>
       </Link>
       <br />
       <br />
@@ -32,8 +32,8 @@ const Home = () => {
           <tr>
             <th style={{ textAlign: "center" }}>ID</th>
             <th style={{ textAlign: "center" }}>Name</th>
-            <th style={{ textAlign: "center" }}>Email</th>
-            <th style={{ textAlign: "center" }}>Contact</th>
+            <th style={{ textAlign: "center" }}>brewery</th>
+            <th style={{ textAlign: "center" }}>year</th>
             <th style={{ textAlign: "center" }}>Action</th>
           </tr>
         </thead>
@@ -44,8 +44,8 @@ const Home = () => {
                 <tr key={item.id}>
                   <th scope="row">{index + 1}</th>
                   <td>{item.name}</td>
-                  <td>{item.email}</td>
-                  <td>{item.contact}</td>
+                  <td>{item.brewery}</td>
+                  <td>{item.year}</td>
                   <td>
                     <Link to={`/update/${item.id}`}>
                       <button className="btn btn-edit">Edit</button>
