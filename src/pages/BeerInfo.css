@@ -1,0 +1,107 @@
+.hero {
+  position: relative;
+  float: left;
+  width: 100%;
+}
+.container {
+  position: relative;
+  height: 100vh;
+  float: left;
+  width: 100%;
+}
+.imagesContainer {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  height: 100%;
+}
+.textInformation {
+  position: absolute;
+  z-index: 1;
+  height: 100%;
+  max-width: 850px;
+  width: 100%;
+  margin: 0 auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.imageStyle {
+  height: 100%;
+  max-height: 700px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.9;
+}
+.imagesContainer strong {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20em;
+}
+
+.shotInfo {
+  position: absolute;
+  top: 50%;
+  transform: translate(0%, -50%);
+  max-width: 210px;
+}
+h1 {
+  width: 100%;
+  margin: 0px;
+  text-align: right;
+}
+.hero h2 {
+  width: 100%;
+  margin: 0px;
+  text-align: right;
+  color: #e5b821;
+}
+.description p {
+  text-align: right;
+  width: 100%;
+  margin: 10px 0px 0px 0px;
+}
+.description .madeBy {
+  margin: 0px;
+  font-weight: 600;
+}
+.information {
+  position: absolute;
+  top: 50%;
+  transform: translate(0%, -50%);
+  right: 0;
+  text-align: left;
+}
+.iconContainer {
+  border-radius: 5px;
+  background-color: #e5b821;
+  float: left;
+  margin-top: 15px;
+  color: #fff;
+  padding: 0px 10px;
+}
+.iconContainer svg {
+  font-size: 30px;
+  padding: 10px;
+  float: left;
+}
+ul {
+  margin: 0px;
+}
+h4 {
+  font-size: 20px;
+  margin: 0px 0px 15px 0px;
+}
+.goBack {
+  position: absolute;
+  float: left;
+  left: 0px;
+  top: 30px;
+}
+.hero .btn.btn-edit {
+  padding: 10px 25px;
+}

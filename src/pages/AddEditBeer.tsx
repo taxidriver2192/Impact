@@ -93,9 +93,10 @@ const AddEditUser = () => {
         />
          <label htmlFor="year">year</label>
         <input
-          type="date"
+          type="number"
           id="year"
           name="year"
+          min="1500" max="2022"
           placeholder="Hvornår er den fra?"
           value={year || ""}
           onChange={handleInputChange}
