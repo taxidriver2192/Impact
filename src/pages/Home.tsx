@@ -31,7 +31,7 @@ const Home = () => {
   };
   return (
     <div>
-      <h2>Redux Toolkit RTK Query CRUD with React and JSON Server </h2>
+      <h2>Opgave fra Impact</h2>
       <Link to="/add">
         <button className="btn btn-add">Add Beer</button>
       </Link>

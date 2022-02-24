@@ -43,9 +43,9 @@ const BeerInfo = () => {
               <li>{data && data.year}</li>
             </ul>
             <div className="iconContainer">
-            <FontAwesomeIcon icon={faBurger} />
-            <FontAwesomeIcon icon={faBeerMugEmpty} />
-            <FontAwesomeIcon icon={faToiletPaper} />
+              <FontAwesomeIcon icon={faBurger} />
+              <FontAwesomeIcon icon={faBeerMugEmpty} />
+              <FontAwesomeIcon icon={faToiletPaper} />
             </div>
           </div>
         </div>
