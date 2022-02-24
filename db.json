@@ -5,8 +5,56 @@
       "brewery": "J. C. Jacobsen",
       "year": "1847",
       "description": "Carlsberg A/S is a Danish multinational brewer. Founded in 1847 by J. C. Jacobsen, the company's headquarters is in Copenhagen, Denmark. Since Jacobsen's death in 1887, the majority owner of the company has been the Carlsberg Foundation. ",
-      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.singhapattanachiangmai.com%2Fwp-content%2Fuploads%2F2016%2F02%2Fcarlsberg-630ml-bottle.png&f=1&nofb=1",
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.tobacna-grosist.si%2FPortals%2F0%2FEasyGalleryImages%2F2%2F19%2FTuborg_4G_Bottle_Wet_RGB_Low-res.png&f=1&nofb=1",
       "id": 1
+    },
+    {
+      "name": "Classic",
+      "brewery": "J. C. Jacobsen",
+      "year": "2003",
+      "description": "Carlsberg A/S is a Danish multinational brewer. Founded in 1847 by J. C. Jacobsen, the company's headquarters is in Copenhagen, Denmark. Since Jacobsen's death in 1887, the majority owner of the company has been the Carlsberg Foundation. ",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.glengarrywines.co.nz%2Fimages%2Fv9%2Fbottles%2F91510.png&f=1&nofb=1",
+      "id": 2
+    },
+    {
+      "name": "Corona",
+      "brewery": "Grupo Modelo",
+      "year": "1998",
+      "description": "Corona is a brand of beer produced by Mexican brewery Cervecería Modelo and owned by Belgian company AB InBev. It is the top-selling brand of imported beer in the United States. It is often served with a wedge of lime or lemon in the neck of the bottle to add tartness and flavor.The recipe for the mash bill includes corn as well as the barley malt and hops traditionally used used for making beer. ",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftoddysknoxville.com%2Fcomponents%2Fcom_jshopping%2Ffiles%2Fimg_products%2Ffull_Corona.png&f=1&nofb=1",
+      "id": 3
+    },
+    {
+      "name": "Blanc",
+      "brewery": "Kronenbourg Brewery",
+      "year": "1664",
+      "description": "Kronenbourg Brewery is a brewery founded in 1664 by Geronimus Hatt in the Free Imperial City of Straßburg, Holy Roman Empire. The name comes from the area where the brewery relocated in 1850. The company is owned by the Danish multinational Carlsberg. The premium brand is Kronenbourg 1664, a 5% abv pale lager.",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcarlsbergmalaysia.com.my%2Fmedia%2F32137%2F1664-blanc-new-transparent.png&f=1&nofb=1",
+      "id": 4
+    },
+    {
+      "name": "Guinness ",
+      "brewery": "Diageo",
+      "year": "1759",
+      "description": "Guinness is an Irish dry stout that originated in the brewery of Arthur Guinness at St. James's Gate, Dublin, Ireland, in 1759. It is one of the most successful alcohol brands worldwide, brewed in almost 50 countries, and available in over 120. Sales in 2011 amounted to 850 million litres.",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fguldendraak.pt%2Fwp-content%2Fuploads%2F2020%2F12%2Fguinness-special-export.png&f=1&nofb=1",
+      "id": 5
+    },
+    {
+      "name": "Grimbergen",
+      "brewery": "Alken-Maes",
+      "year": "1128",
+      "description": "The name derives from the Norbertine abbey, which Saint Norbert of Xanten founded in Grimbergen in 1128. It is in this abbey that the beer was first brewed by the monks.",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sjobeck.dk%2FFiles%2FImages%2FProdukter%2F24217.png&f=1&nofb=1",
+      "id": 6
+    },
+    {
+      "name": "Heineken",
+      "brewery": "Heineken N.V.",
+      "year": "1873",
+      "description": "Heineken Lager Beer, or simply Heineken is a pale lager beer with 5% alcohol by volume produced by the Dutch brewing company Heineken N.V.. Heineken beer is sold in a green bottle with a red star",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F52%2F0c%2Fe7520c7e351207e882979ba222d1ccae.png&f=1&nofb=1",
+      "id": 7
     }
   ]
 }

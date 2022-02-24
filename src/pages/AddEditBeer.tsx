@@ -96,7 +96,7 @@ const AddEditUser = () => {
           type="number"
           id="year"
           name="year"
-          min="1500" max="2022"
+          min="1000" max="2022"
           placeholder="Hvornår er den fra?"
           value={year || ""}
           onChange={handleInputChange}

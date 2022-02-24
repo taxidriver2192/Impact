@@ -2,7 +2,17 @@ import { useEffect } from "react";
 import { Link } from "react-router-dom";
 import { toast } from "react-toastify";
 import {useBeersQuery, useDeleteBeerMutation} from "../services/beersApi";
+
+/* 
+https://react-table.tanstack.com/
+React table har jeg desværre ikke fået til at virke endnu, men aflever opgaven som den er
+Da i skal have tid til at læse opgaven igennem. 
+
+import { useTable, useSortBy } from 'react-table'
+
+*/
 import "./Home.css";
+
 
 
 const Home = () => {
