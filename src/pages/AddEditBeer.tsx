@@ -105,7 +105,7 @@ const AddEditUser = () => {
         <textarea
           id="description"
           name="description"
-          placeholder="Hvornår er den fra?"
+          placeholder="Hvilken beskrivelse har den?"
           value={description || ""}
           onChange={handleInputChange}
         />
