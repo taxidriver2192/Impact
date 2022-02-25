@@ -1,44 +1,50 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+# Opgave fra Impact.
 
-In the project directory, you can run:
+## Hvordan i køre programmet.
+Her finder i en lille guide for at få projektet til at virke.
 
-### `npm start`
+```bash
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+git clone https://github.com/taxidriver2192/Impact.git
+cd impact
+npm install
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+npm run server
+npm run start
 
-### `npm test`
+```
+## Syntes det var en sværger opgaver end jeg troede.
+Jeg kan mærke at jeg har meget at lære endnu, Du fortalte at jeg skulle lægge større vægt inden for UX.
+Desværre er dette ikke en opgave hvor jeg har mulighed for at lægge særlig stor vægt på dette, Derfor har jeg prøvet at løse resten af opgaven på bedst mulig vis.
+Normalt gør jeg mig brug af en database eller firebase, men ville gerne prøve at lave det så simpelt som nu muligt.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Derfor gemmer jeg dataen i json.
+Der var ret mange frie rammer i denne opgave, men har brugt 5 timers tid på opgaven og vælger af aflever den nu, Det kan være der kommer en opdatering undervejs. Hvor jeg har fundet ud af hvordan man bruger react-table, men indtil videre driller det lidt.
 
-### `npm run build`
+## Mangler i noget musik?
+[![Klik her for mere information](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/embed/dQw4w9WgXcQ)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Problemer.
+### CRUD..
+Tænkte at det ikke tog lang tid at sætte en CRUD op, men kan godt mærke at det skal gennem øves lidt før jeg kan gøre det hurtiger.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### Ikke lavet Component..
+Godt klar over at det ikke er optimalt, men valgte at fokuserer på funktionaliteten.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Kan ikke vænte på at lære mere!
+Ved godt resen er lang for at blive rigtig god til react og next, men er helt forelsket i deres framework og forhåbning glæder jeg mig til at dele den rejse sammen med jer! 
 
-### `npm run eject`
+## Samlet tid.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Sat først projektet op uden typescript, men så kom jeg i tanke om at Bo fortalte mig at i brugte typescript hos jer. Så valgte at give det et forsøg, men jeg ville lyve hvis jeg sagde at det ikke var lidt besværligt..
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* CRD = 2t
+* Eddit(Taste Fejl) = 2T
+* Design og react-table = 1.30T
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Færdig desig.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Her kan i se et billede af det færdig design.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img alt="expo sdk" src="https://github.com/taxidriver2192/Impact/blob/Impact/src/img/impactDesign.jpg">
