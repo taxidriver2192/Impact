@@ -1,6 +1,8 @@
 
 # Opgave fra Impact.
 
+<img alt="expo sdk" src="https://github.com/taxidriver2192/Impact/blob/Impact/src/img/impactDesign.jpg">
+
 ## Hvordan i køre programmet.
 Her finder i en lille guide for at få projektet til at virke.
 
@@ -42,9 +44,3 @@ Sat først projektet op uden typescript, men så kom jeg i tanke om at Bo fortal
 * CRD = 2t
 * Eddit(Taste Fejl) = 2T
 * Design og react-table = 1.30T
-
-### Færdig desig.
-
-Her kan i se et billede af det færdig design.
-
-<img alt="expo sdk" src="https://github.com/taxidriver2192/Impact/blob/Impact/src/img/impactDesign.jpg">
