@@ -16,31 +16,14 @@ npm run server
 npm run start
 
 ```
-## Syntes det var en sværger opgaver end jeg troede.
-Jeg kan mærke at jeg har meget at lære endnu, Du fortalte at jeg skulle lægge større vægt inden for UX.
-Desværre er dette ikke en opgave hvor jeg har mulighed for at lægge særlig stor vægt på dette, Derfor har jeg prøvet at løse resten af opgaven på bedst mulig vis.
-Normalt gør jeg mig brug af en database eller firebase, men ville gerne prøve at lave det så simpelt som nu muligt.
+Opdateret projektbeskrivelse
+Det var en mere udfordrende opgave end forventet, men jeg har gjort mit bedste for at løse den på den mest hensigtsmæssige måde. Jeg er klar over, at UX er en vigtig faktor, men desværre var dette projekt ikke et, hvor jeg kunne fokusere særligt meget på dette. Derfor har jeg valgt at gøre projektet så simpelt som muligt ved at gemme dataene i en JSON-fil.
 
-### Derfor gemmer jeg dataen i json.
-Der var ret mange frie rammer i denne opgave, men har brugt 5 timers tid på opgaven og vælger af aflever den nu, Det kan være der kommer en opdatering undervejs. Hvor jeg har fundet ud af hvordan man bruger react-table, men indtil videre driller det lidt.
+Valg af teknologi
+Jeg blev først introduceret til projektet uden brug af TypeScript, men da jeg blev opmærksom på, at det blev brugt hos jer, valgte jeg at give det et forsøg. Det var dog lidt besværligt at implementere, da jeg stadig har meget at lære.
 
-## Mangler i noget musik?
-[![Klik her for mere information](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/embed/dQw4w9WgXcQ)
+Projektets udfordringer
+CRUD-funktionaliteten var en større udfordring end forventet, og jeg må øve mig lidt mere, før jeg kan gøre det hurtigere. Jeg er også klar over, at jeg ikke har lavet en komponent til opgaven, men valgte at fokusere på funktionaliteten i stedet. Jeg glæder mig dog til at lære mere om React og Next, da jeg er forelsket i deres framework.
 
-## Problemer.
-### CRUD..
-Tænkte at det ikke tog lang tid at sætte en CRUD op, men kan godt mærke at det skal gennem øves lidt før jeg kan gøre det hurtiger.
-
-### Ikke lavet Component..
-Godt klar over at det ikke er optimalt, men valgte at fokuserer på funktionaliteten.
-
-### Kan ikke vænte på at lære mere!
-Ved godt resen er lang for at blive rigtig god til react og next, men er helt forelsket i deres framework og forhåbning glæder jeg mig til at dele den rejse sammen med jer! 
-
-## Samlet tid.
-
-Sat først projektet op uden typescript, men så kom jeg i tanke om at Bo fortalte mig at i brugte typescript hos jer. Så valgte at give det et forsøg, men jeg ville lyve hvis jeg sagde at det ikke var lidt besværligt..
-
-* CRD = 2t
-* Eddit(Taste Fejl) = 2T
-* Design og react-table = 1.30T
+Projekttid
+Jeg har brugt i alt cirka 5 timer på projektet, hvoraf jeg har brugt 2 timer på CRUD-funktionaliteten, 2 timer på rettelse af tastefejl og 1,5 time på design og integration af React Table. Jeg kan ikke vente med at dele min videre rejse inden for React og Next med jer.
